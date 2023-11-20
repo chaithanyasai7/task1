@@ -1,0 +1,29 @@
+{
+    "id": 1,
+    "name": "John Doe",
+    "age": 20,
+    "gamesIPlay": ["Ludo", "Cricket"],
+    "hobbiesDetails": [
+      {
+        "gameName": "Ludo",
+        "minPlayers": 2,
+        "maxPlayers": 4
+      },
+      {
+        "gameName": "Cricket",
+        "minPlayers": 11,
+        "maxPlayers": 15
+      }
+    ],
+    "dailySchedule": [
+      {
+        "name": "morning",
+        "tasks": ["brush", "bath"]
+      },
+      {
+        "name": "night",
+        "tasks": ["walk", "brush"]
+      }
+    ],
+    "tasksAccordingToAge": ["vote", "work"]
+  }   
